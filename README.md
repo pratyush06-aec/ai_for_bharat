@@ -1,3 +1,7 @@
+<p align="center">
+  <img src="assets/roboX-logo.png" alt="RoboX Logo" width="300"/>
+</p>
+
 🛕 Temple & Pilgrimage Crowd Management System  
     Where Faith Meets Foresight 🙏📊
 
